@@ -118,7 +118,7 @@ app.use((ctx, next) => {
 
 好了，访问 `http://localhost:3000/abc?a=1`
 
-![image-20200322183044360](/Users/husiyuan/Library/Application Support/typora-user-images/image-20200322183044360.png)
+![image-20200322211032790](http://qn-noter.yunxi.site/imagehost/z2vcf.png)
 
 显然，我们还需要挂载 `ctx.request.xxx`，`ctx.url`，`ctx.path`，`ctx.query`。那这个怎么实现呢？
 
