@@ -1,0 +1,9 @@
+{
+  "name": "mykoa2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "delegates": "^1.0.0"
+  }
+}
